@@ -15,7 +15,43 @@ renamed the old bootstrap with the name of bootstrap_old.css and added the new b
 changed the existing site.css with given styles.
 0855
 removed .min from layout.cshtml from line 7, made changes in nav-light to nav-dark and bg-light to bg-primary on line 12 in layout.cshtml, removed text dark from line 22 and 25 from layout.cshtml, changed line 39 text-muted to text-white-50 and bg-primary in as file and lastly removed text-dark from line 9,20,23 from loginpartial.cshtml
-
-
-
-
+0901
+from blackboard in css_js.txt pasted the all css link and js link in layout file.
+0903
+added the code for dropdown menu and tested it the project to if any error.
+0905
+Created 3 new project with the name of VrajeshBook.DataAccess , VrajeshBook.Models , VrajeshBook.Utility
+0906
+Moved the Data folder from the main folder and pasted it in DataAccess project.
+0908
+installed the given packages and deleted the Migration folder in DataAccess and Modify the namespace.
+0909
+Deleted default Class1.cs file in all project.
+0910
+Moved the Models in VrajeshBooks.Models. 
+0915
+Added the project reference from original project to .DataAccess and .Models.
+0917
+Renamed the Models folder to ViewModels and changed the namespace and run the project.
+0920
+Removed the using statment in startup.cs and again run the project successfully.
+0922
+In the Utility project, create a static details class called SD.cs
+0925
+In the DataAccess project add project references t o Models and Utility
+0928
+Add a ‘Customers’ area to Areas and Move the HomeController.cs to the Area > Customer > Controller folder and delete Data and Models.
+0930
+Move Views > Home and modify the HomeController namespace
+0932
+Copy _ViewImport and _ViewStart to Customer Area
+0933
+Modify the _ViewStart.cshtml to reflect the new path
+0935
+Add a new Admin area in Areas
+0938
+Add the proper view files and delete the Data and Models folder
+0941
+Delete the Controllers folder
+0943
+Did the last commit

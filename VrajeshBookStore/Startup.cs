@@ -11,7 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using VrajeshBookStore.Data;
+using VrajeshBookStore.DataAccess.Data;
 
 namespace VrajeshBookStore
 {
@@ -63,7 +63,7 @@ namespace VrajeshBookStore
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area=Customers}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }
