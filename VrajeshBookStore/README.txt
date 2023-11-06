@@ -62,6 +62,8 @@ started the new part 2 cloned the project.
 1748
 created new file Category.cs
 
+
+
 2023-11-06
 1554
 Started part-2 
@@ -83,3 +85,5 @@ Created new folder in .DataAccess named Respository and IRepository and modiifie
 Added new CategoryRespository and ICategoryRepository in folders and commit to github
 1650
 Added  new SP_Call.cs and ISP_Call.cs in respository folder
+1605
+Created new IUnitOfWork and UnitOfWork.cs and added the code in it.
