@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using VrajeshBooks.Models;
+using VrajeshBookStore.DataAccess.Data;
 
 namespace VrajeshBooks.DataAccess.Respository.IRepository
 {

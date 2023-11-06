@@ -81,3 +81,5 @@ Reviewed updated Database in sql server
 Created new folder in .DataAccess named Respository and IRepository and modiified the code accordingly
 1642
 Added new CategoryRespository and ICategoryRepository in folders and commit to github
+1650
+Added  new SP_Call.cs and ISP_Call.cs in respository folder
