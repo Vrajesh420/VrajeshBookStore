@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using VrajeshBooks.DataAccess.Respository;
+using VrajeshBooks.DataAccess.Respository.IRepository;
 using VrajeshBookStore.DataAccess.Data;
 
 namespace VrajeshBookStore
@@ -34,6 +36,7 @@ namespace VrajeshBookStore
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
