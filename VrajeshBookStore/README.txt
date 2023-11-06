@@ -55,3 +55,24 @@ Add the proper view files and delete the Data and Models folder
 Delete the Controllers folder
 0943
 Did the last commit
+
+2023-11-04
+1744
+started the new part 2 cloned the project.
+1748
+created new file Category.cs
+
+2023-11-06
+1554
+Started part-2 
+
+1556
+Reviewed Appsettings.json
+ran add-migration AddDefaultIdentityMigration command in VrajeshBooks.Dataaccess
+
+1559
+Reviewed files in sql statements,syntax 
+
+1600
+Updated Database
+Reviewed updated Database in sql server 
