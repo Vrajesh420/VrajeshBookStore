@@ -14,7 +14,10 @@ renamed the old bootstrap with the name of bootstrap_old.css and added the new b
 0854
 changed the existing site.css with given styles.
 0855
-removed .min from layout.cshtml from line 7, made changes in nav-light to nav-dark and bg-light to bg-primary on line 12 in layout.cshtml, removed text dark from line 22 and 25 from layout.cshtml, changed line 39 text-muted to text-white-50 and bg-primary in as file and lastly removed text-dark from line 9,20,23 from loginpartial.cshtml
+removed .min from layout.cshtml from line 7, made changes in nav-light to nav-dark and 
+bg-light to bg-primary on line 12 in layout.cshtml, removed text dark from line 22 and 25 
+from layout.cshtml, changed line 39 text-muted to text-white-50 and bg-primary in as file and 
+lastly removed text-dark from line 9,20,23 from loginpartial.cshtml
 0901
 from blackboard in css_js.txt pasted the all css link and js link in layout file.
 0903
@@ -40,7 +43,8 @@ In the Utility project, create a static details class called SD.cs
 0925
 In the DataAccess project add project references t o Models and Utility
 0928
-Add a ‘Customers’ area to Areas and Move the HomeController.cs to the Area > Customer > Controller folder and delete Data and Models.
+Add a ‘Customers’ area to Areas and Move the HomeController.cs to the Area > Customer >
+Controller folder and delete Data and Models.
 0930
 Move Views > Home and modify the HomeController namespace
 0932
@@ -81,11 +85,19 @@ Reviewed updated Database in sql server
 
 1637
 Created new folder in .DataAccess named Respository and IRepository and modiified the code accordingly
+
 1642
 Added new CategoryRespository and ICategoryRepository in folders and commit to github
+
 1650
 Added  new SP_Call.cs and ISP_Call.cs in respository folder
+
 1705
 Created new IUnitOfWork and UnitOfWork.cs and added the code in it.
+
 1722
 Created new layout and add navigation to category page and added javascript file and navigate to category for review
+
+1750
+Added the parital view that was given in the slides and run the successfully with addition
+and updation functionality run correctly
