@@ -75,4 +75,7 @@ Reviewed files in sql statements,syntax
 
 1600
 Updated Database
-Reviewed updated Database in sql server 
+Reviewed updated Database in sql server
+
+1637
+Created new folder in .DataAccess named Respository and IRepository and modiified the code accordingly
