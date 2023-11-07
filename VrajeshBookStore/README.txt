@@ -101,3 +101,7 @@ Created new layout and add navigation to category page and added javascript file
 1750
 Added the parital view that was given in the slides and run the successfully with addition
 and updation functionality run correctly
+
+1917
+added a space in category.js foe delete button.
+modified and tested.
