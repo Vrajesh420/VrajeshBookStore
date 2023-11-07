@@ -60,13 +60,6 @@ Delete the Controllers folder
 0943
 Did the last commit
 
-2023-11-04
-1744
-started the new part 2 cloned the project.
-1748
-created new file Category.cs
-
-
 
 2023-11-06
 1554
@@ -75,6 +68,11 @@ Started part-2
 1556
 Reviewed Appsettings.json
 ran add-migration AddDefaultIdentityMigration command in VrajeshBooks.Dataaccess
+
+1558
+added first migration 20231104214339_AddDefault
+second migration 20231104214646_addCategory.cs it was empty
+final all thing added to migration 20231104214752_review.cs
 
 1559
 Reviewed files in sql statements,syntax 
