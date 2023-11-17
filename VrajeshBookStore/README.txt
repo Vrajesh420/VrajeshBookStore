@@ -114,3 +114,5 @@ Created the New CoverTypeRepository and ICoverTypeRepository and updated the Cov
 Updated the ICoverTypeRepository like the ICategoryRepository and fix the errors by using quick actions
 1154
 Added the CoverType to IUnitOfWork and UnitOfWork as per the given one and push to git hub
+1211
+Pushed CoverType To the DataBase and created the migration - 20231117171028_AddedCoverType
