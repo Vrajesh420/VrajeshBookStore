@@ -110,3 +110,5 @@ modified and tested.
 Cloned the project and added the CoverType.cs model in models project with ID and Name in it.
 1145
 Created the New CoverTypeRepository and ICoverTypeRepository and updated the CoverTypeRepository from the CategoryRepository
+1149
+Updated the ICoverTypeRepository like the ICategoryRepository and fix the errors by using quick actions
