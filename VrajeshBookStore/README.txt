@@ -103,3 +103,10 @@ and updation functionality run correctly
 1917
 added a space in category.js foe delete button.
 modified and tested.
+
+2023-11-17
+
+1130
+Cloned the project and added the CoverType.cs model in models project with ID and Name in it.
+1145
+Created the New CoverTypeRepository and ICoverTypeRepository and updated the CoverTypeRepository from the CategoryRepository
