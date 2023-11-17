@@ -120,3 +120,9 @@ Pushed CoverType To the DataBase and created the migration - 20231117171028_Adde
 Created new New controller, index, and Upsert view along with coverType.js
 1548
 Created new migration - 20231117204821_addProductToDb
+1607
+Added the migration - 20231117210501_addValidationToProduct
+1617
+Added ProductRepositry and IProductRepository and Updated the ApplicationDbContext
+1621
+Added the product to UnitOWork and IUnitWork
