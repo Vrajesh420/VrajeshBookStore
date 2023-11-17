@@ -1,4 +1,4 @@
-﻿@model VrajeshBooks.Models.CoverType;
+﻿@model VrajeshBooks.Models.CoverType; 
 @{
     var title = "Create Cover Type";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -9,7 +9,7 @@
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
         @if (Model.Id != null)
         {
-            title = "Edit Cover Type";
+            title = "Edit Category";
         }
         <div class="col-12 border-bottom">
             <h2 class="text-primary">@title</h2>
@@ -39,3 +39,6 @@
         </div>
     </div>
 </form>
+@section Scripts{ 
+<partial name="_ValidationScriptsPartial" />
+}
