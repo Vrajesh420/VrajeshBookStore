@@ -118,3 +118,5 @@ Added the CoverType to IUnitOfWork and UnitOfWork as per the given one and push 
 Pushed CoverType To the DataBase and created the migration - 20231117171028_AddedCoverType
 1541
 Created new New controller, index, and Upsert view along with coverType.js
+1548
+Created new migration - 20231117204821_addProductToDb
