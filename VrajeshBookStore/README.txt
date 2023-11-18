@@ -133,3 +133,9 @@ Added new View Model to Product , Installed package Microsoft.AspNetCore.Mvc.Vie
 Commented out Upsert method.
 1924
 Modified API call include category and covertype properties.
+1928
+Added Index view to Product in admin area.
+Created product.js pasted code from category.js to product.js
+1932
+Added link of product to _layout.cshtml 
+Tested Application, worked perfectly
