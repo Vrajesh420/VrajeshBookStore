@@ -50,6 +50,7 @@ namespace VrajeshBookStore.Areas.Admin.Controllers
                 else
                 {
                     _unitOfWork.CoverType.Update(coverType);
+                    
                 }
                 _unitOfWork.Save();
                 return RedirectToAction(nameof(Index));

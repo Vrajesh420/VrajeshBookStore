@@ -126,3 +126,10 @@ Added the migration - 20231117210501_addValidationToProduct
 Added ProductRepositry and IProductRepository and Updated the ApplicationDbContext
 1621
 Added the product to UnitOWork and IUnitWork
+1821
+Started section 2 Created new ProductController.cs and added new code for all action
+1917
+Added new View Model to Product , Installed package Microsoft.AspNetCore.Mvc.ViewFeatures and solved errors by adding references.
+Commented out Upsert method.
+1924
+Modified API call include category and covertype properties.
