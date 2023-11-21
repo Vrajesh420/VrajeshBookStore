@@ -139,3 +139,20 @@ Created product.js pasted code from category.js to product.js
 1932
 Added link of product to _layout.cshtml 
 Tested Application, worked perfectly
+2023-21-11
+0922
+Started Section-3
+0924
+Created Upsert view in Product folder in Admin Area
+0926
+Created account on tiny.cloud and copied script from it and pasted it to script of Upsert, Added other required script
+0928
+Uncommented Upsert method from ProductController.cs and added httppost method
+0930
+Added images folder in wwwroot and subfolder products in it.
+0931
+Changed my theme to Journal because font color was not good in output.
+I forgot to change Category list to Cover Type list , so I modified it in this step
+0932
+Tested Application, worked well.
+Section 3 completed
