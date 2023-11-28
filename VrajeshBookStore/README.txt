@@ -156,3 +156,8 @@ I forgot to change Category list to Cover Type list , so I modified it in this s
 0932
 Tested Application, worked well.
 Section 3 completed
+2023-11-28
+0818
+Added httppost and httpdelete method in productcontroller in admin area
+0821
+Modified Product.cs in Models project to update foreign key of CoverType. Run migration 20231128132127_updateForeignKeyCoverType.cs and updated database
