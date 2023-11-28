@@ -165,3 +165,13 @@ Modified Product.cs in Models project to update foreign key of CoverType. Run mi
 Added IUnitOfWork to HomeController.cs in customer area.
 0836
 Updated Index View of customer area to show book catalogue
+0846
+I created images and products folder in wwwroot in part3 section3, but it was not displaying so i deleted and created again
+0848
+Added RazorRuntimeCompilation method in startup.cs 
+0852
+Modified product.js to change column name of category and listprice.
+0854
+Tested Application by adding images, product catalogue is showing on index page of customer area successfully.
+0856
+Part-4 Completed
