@@ -158,6 +158,10 @@ Tested Application, worked well.
 Section 3 completed
 2023-11-28
 0818
-Added httppost and httpdelete method in productcontroller in admin area
+Cloned repository and started part-4, Added httppost and httpdelete method in productcontroller in admin area
 0821
 Modified Product.cs in Models project to update foreign key of CoverType. Run migration 20231128132127_updateForeignKeyCoverType.cs and updated database
+0830
+Added IUnitOfWork to HomeController.cs in customer area.
+0836
+Updated Index View of customer area to show book catalogue
