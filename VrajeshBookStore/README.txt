@@ -175,3 +175,6 @@ Modified product.js to change column name of category and listprice.
 Tested Application by adding images, product catalogue is showing on index page of customer area successfully.
 0856
 Part-4 Completed
+2023-12-05
+1448
+forgot to update README.txt after adding 3 book poster , modified README.md too.
